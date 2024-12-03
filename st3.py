@@ -10,7 +10,7 @@ users_data = {
         "role": "administrateur"
     },
     "utilisateur": {
-        "password": "userMDP",
+        "password": "utilisateurMDP",
         "email": "user@gmail.com",
         "failed_login_attempts": 0,
         "logged_in": False,
